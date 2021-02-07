@@ -7,7 +7,7 @@
 <br>
 </br>
 
-Hi, I'm Brahmajit Mohapatra, and undergradute Computer Science student <a href="https://www.lpu.in/" rel="nofollow">@LPU </a> with Data Science skills 🚀 from India, currently, I'm student memeber in Developer Student Club Lead 🙍🏽‍♂️ <a href="https://developers.google.com/community/dsc?utm_source=devtools" rel="nofollow">@googledevelopers </a> also I'm always willing to learn new technologies and wishes to add them to my skill set
+Hi, I'm Brahmajit Mohapatra, undergradute Computer Science student <a href="https://www.lpu.in/" rel="nofollow">@LPU </a> with Data Science skills 🚀 from India, currently, I'm student memeber in Developer Student Club Lead 🙍🏽‍♂️ <a href="https://developers.google.com/community/dsc?utm_source=devtools" rel="nofollow">@googledevelopers </a> also I'm always willing to learn new technologies and wishes to add them to my skill set
 
 Passion, Resilience and Diligence are traits that she believe most reflect me as an individual.
 
