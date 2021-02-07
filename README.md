@@ -7,13 +7,18 @@
 <br>
 </br>
 
-Hi, I'm Brahmajit Mohapatra,aAnd undergradute Computer Science student <a href="https://www.lpu.in/" rel="nofollow">@LPU </a> with Data Science skills 🚀 from India, currently, I'm student memeber in Developer Student Club Lead 🙍🏽‍♂️ <a href="https://developers.google.com/community/dsc?utm_source=devtools" rel="nofollow">@googledevelopers </a>. 
+Hi, I'm Brahmajit Mohapatra, and undergradute Computer Science student <a href="https://www.lpu.in/" rel="nofollow">@LPU </a> with Data Science skills 🚀 from India, currently, I'm student memeber in Developer Student Club Lead 🙍🏽‍♂️ <a href="https://developers.google.com/community/dsc?utm_source=devtools" rel="nofollow">@googledevelopers </a> also I'm always willing to learn new technologies and wishes to add them to my skill set
 
-- 🔭 I’m currently working on Capstone Project
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on PyTUBER project
-- 💬 Ask me about Data Structure, Tableau, R, Python, Excel.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Passion, Resilience and Diligence are traits that she believe most reflect me as an individual.
+
+Strong grasp on Data Structures and Algorithm ,actively doing competitive programming for last 4 months . Besides this, she has been exploring Machine learning and Data Science.
+
+## Technical Skills:
+Programming language : Python , R, C++ , Familiarity with Java
+Frontend : HTML5, CSS, Javascript (currently learning)
+Libraries: Numpy, Pandas, Matplotlib , Skikit-learn, Seaborn
+Tools : Jupyter, Go-Colab, VS-Code, Git/Github, Unity3D, RStudio, Tableu, Excel
+Database : MySQL
+OS : Linux / Windows
+
 
