@@ -11,8 +11,6 @@ Hi, I'm Brahmajit Mohapatra, undergradute Computer Science student <a href="http
 
 Passion, Resilience and Diligence are traits that she believe most reflect me as an individual.
 
-Strong grasp on Data Structures and Algorithm ,actively doing competitive programming for last 4 months . Besides this, she has been exploring Machine learning and Data Science.
-
 ## Technical Skills:
 Programming language : Python , R, C++ , Familiarity with Java
 
