@@ -15,10 +15,15 @@ Strong grasp on Data Structures and Algorithm ,actively doing competitive progra
 
 ## Technical Skills:
 Programming language : Python , R, C++ , Familiarity with Java
+
 Frontend : HTML5, CSS, Javascript (currently learning)
+
 Libraries: Numpy, Pandas, Matplotlib , Skikit-learn, Seaborn
+
 Tools : Jupyter, Go-Colab, VS-Code, Git/Github, Unity3D, RStudio, Tableu, Excel
+
 Database : MySQL
+
 OS : Linux / Windows
 
 
