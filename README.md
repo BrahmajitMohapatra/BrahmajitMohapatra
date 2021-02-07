@@ -7,7 +7,7 @@
 <br>
 </br>
 
-Hi, I'm Brahmajit Mohapatra,aAnd undergradute Computer Science student @LPU with Data Science skills 🚀 from India, currently, I'm student memeber in Developer Student Club Lead 🙍🏽‍♂️ @googledevelopers. 
+Hi, I'm Brahmajit Mohapatra,aAnd undergradute Computer Science student <a href="https://www.lpu.in/" rel="nofollow">@LPU </a> with Data Science skills 🚀 from India, currently, I'm student memeber in Developer Student Club Lead 🙍🏽‍♂️ <a href="https://developers.google.com/community/dsc?utm_source=devtools" rel="nofollow">@googledevelopers </a>. 
 
 - 🔭 I’m currently working on Capstone Project
 - 🌱 I’m currently learning Data Science 
