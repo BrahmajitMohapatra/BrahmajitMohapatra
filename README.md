@@ -7,7 +7,7 @@
 <br>
 </br>
 
-Hi, I'm Brahmajit Mohapatra, undergraduate Computer Science student <a href="https://www.lpu.in/" rel="nofollow">@LPU </a> with Data Science major 🚀 from India, currently, I'm student memeber in Developer Student Club 🙍🏽‍♂️ <a href="https://developers.google.com/community/dsc?utm_source=devtools" rel="nofollow">@googledevelopers </a>. Deeply interested in Data Science and Machine Learning field, also I'm always willing to learn new technologies and wishes to add them to my skill set.
+Hi, I'm Brahmajit Mohapatra, undergraduate Computer Science student <a href="https://www.lpu.in/" rel="nofollow">@LPU </a> with Data Science major 🚀 from India. Currently, I'm student memeber in Developer Student Club 🙍🏽‍♂️ <a href="https://developers.google.com/community/dsc?utm_source=devtools" rel="nofollow">@googledevelopers </a>. Deeply interested in Data Science and Machine Learning field, also I'm always willing to learn new technologies and wishes to add them to my skill set.
 
 Passion, Resilience and Diligence are traits that I believe most reflect me as an individual.
 
@@ -16,9 +16,9 @@ Programming language : Python, R, C++, Familiarity with Java
 
 Frontend : HTML5, CSS, JavaScript (currently learning)
 
-Libraries: Numpy, Pandas, Matplotlib , Skikit-learn, Seaborn
+Libraries: Numpy, Pandas, Matplotlib , Scikit-learn, Seaborn
 
-Tools : Jupyter, VS-Code, Git/Github, RStudio, Tableau, Excel
+Tools : Jupyter, VS-Code, Git/GitHub, RStudio, Tableau, Excel
 
 Database : MySQL
 
